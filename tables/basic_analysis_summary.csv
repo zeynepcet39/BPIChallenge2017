@@ -1,0 +1,22 @@
+Metric,Value
+Number of cases,31509
+Number of events,1202267
+Number of process variants,15930
+Number of distinct activity labels,26
+Number of case attribute columns,4
+Number of event attribute columns,15
+Mean case length (events),38.156
+Std. case length (events),16.715
+Mean case duration (days),21.9
+Std. case duration (days),13.169
+Mean case duration (minutes),31535.432
+Std. case duration (minutes),18963.695
+Mean case duration (seconds),1892125.923
+Std. case duration (seconds),1137821.691
+Number of categorical event attributes,9
+Number of distinct resources (org:resource),149
+Most active resource,User_1 (148404 events)
+Most frequent activity,W_Validate application
+Most frequent activity count,209496
+Most common loan goal,Car (28.263%)
+Application type distribution,"New credit: 90.14%, Limit raise: 9.86%"

@@ -1,0 +1,4 @@
+,Algorithm,Fitness (Token-Based),Precision,Generalization,Size (#nodes + arcs),Density,Connectivity
+0,Alpha-Miner,0.383,0.09,0.982,93,0.0391,1.4474
+1,Heuristic-Miner,0.955,0.672,0.932,308,0.0118,1.464
+2,Inductive-Miner,1.0,0.141,0.948,326,0.0092,1.2958

@@ -1,0 +1,25 @@
+attribute,value,activity_from,avg_transition_hours,median_transition_hours,event_count
+case:ApplicationType,Limit raise,W_Call after offers,47.3,0.0,19567.0
+case:ApplicationType,New credit,W_Personal Loan collection,432.66,0.01,20.0
+case:LoanGoal,Boat,W_Call after offers,60.28,0.01,1135.0
+case:LoanGoal,Business goal,O_Sent (online only),88.22,88.22,1.0
+case:LoanGoal,Car,W_Call after offers,59.18,0.0,52924.0
+case:LoanGoal,Caravan / Camper,W_Call after offers,55.09,0.0,2074.0
+case:LoanGoal,Debt restructuring,W_Call after offers,147.38,0.01,10.0
+case:LoanGoal,Existing loan takeover,O_Sent (online only),63.85,3.31,388.0
+case:LoanGoal,Extra spending limit,W_Call after offers,60.16,0.0,3563.0
+case:LoanGoal,Home improvement,O_Sent (online only),68.81,0.17,459.0
+case:LoanGoal,Motorcycle,O_Sent (online only),106.19,13.1,10.0
+case:LoanGoal,Not speficied,W_Call after offers,60.22,0.01,6576.0
+case:LoanGoal,"Other, see explanation",W_Personal Loan collection,432.66,0.01,20.0
+case:LoanGoal,Remaining debt home,W_Call after offers,54.27,0.0,4928.0
+case:LoanGoal,Tax payments,W_Call after offers,58.77,0.0,867.0
+case:LoanGoal,Unknown,W_Call after offers,49.73,0.0,12900.0
+case:RequestedAmountCat,Large (>75%),W_Personal Loan collection,432.66,0.01,20.0
+case:RequestedAmountCat,Medium (50-75%),W_Call after offers,56.85,0.0,35590.0
+case:RequestedAmountCat,Micro (<25%),O_Sent (online only),67.64,3.22,272.0
+case:RequestedAmountCat,Small (25-50%),O_Sent (online only),62.75,0.16,453.0
+case:CreditScoreCat,High Score,O_Sent (online only),42.04,0.46,342.0
+case:CreditScoreCat,Low Score,W_Personal Loan collection,356.72,0.01,9.0
+case:CreditScoreCat,Medium Score,O_Sent (online only),36.3,0.09,464.0
+case:CreditScoreCat,Missing/Zero,W_Personal Loan collection,432.66,0.01,20.0
